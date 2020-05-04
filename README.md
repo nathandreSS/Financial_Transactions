@@ -1,4 +1,4 @@
-# Financial Transactions With Database
+# Financial Transactions
 
 Financial Transactions With Database is an API that register financial transactions in a Database.
 
